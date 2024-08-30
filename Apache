@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AH-64 Apache</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>AH-64 Apache</h1>
+        <nav>
+            <ul>
+                <li><a href="#overview">Overview</a></li>
+                <li><a href="#specifications">Specifications</a></li>
+                <li><a href="#gallery">Gallery</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="overview">
+            <h2>Overview</h2>
+            <p>The AH-64 Apache is a powerful and versatile attack helicopter known for its exceptional firepower and advanced technology. It plays a crucial role in various military operations, providing close air support, anti-tank capabilities, and reconnaissance.</p>
+        </section>
+
+        <section id="specifications">
+            <h2>Specifications</h2>
+            <ul>
+                <li><strong>Primary Role:</strong> Attack helicopter</li>
+                <li><strong>Crew:</strong> 2 (pilot and co-pilot/gunner)</li>
+                <li><strong>Maximum Speed:</strong> 182 mph</li>
+                <li><strong>Armament:</strong> 30mm M230 Chain Gun, AGM-114 Hellfire missiles, Hydra 70 rockets</li>
+            </ul>
+        </section>
+
+        <section id="gallery">
+            <h2>Gallery</h2>
+            <div class="image-grid">
+                <img src="image1.jpg" alt="AH-64 Apache in flight">
+                <img src="image2.jpg" alt="AH-64 Apache firing weapons">
+                <img src="image3.jpg" alt="AH-64 Apache on the ground">
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 AH-64 Apache Website</p>
+    </footer>
+</body>
+</html>
